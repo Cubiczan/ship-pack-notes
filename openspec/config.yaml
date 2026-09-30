@@ -1,0 +1,6 @@
+schema: spec-driven
+context: |
+  Ship Pack Notes is an Expo (SDK 57) React Native app. A feature ask becomes a
+  same-day ship pack on the device. The first pack is free. Unlock Unlimited is
+  a RevenueCat non-consumable lifetime entitlement. Placeholder SDK keys and
+  Expo Go stay in preview mode.
