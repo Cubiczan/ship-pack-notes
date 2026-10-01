@@ -42,3 +42,10 @@ example
 # generated native folders
 /ios
 /android
+
+# credentials
+credentials/
+*credentials*
+
+.secrets/
+*.p8
